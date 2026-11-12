@@ -1,0 +1,7 @@
+*.exe
+*.xml
+*.bak
+*.tmp
+*.log
+开发文件/modern-test-*/
+资料库/
